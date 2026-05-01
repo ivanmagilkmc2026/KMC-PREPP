@@ -1,0 +1,2 @@
+# KMC-PREPP
+Create a CME app for Doctors with dashboard containing information about VENUE, SCIENTIFIC SCHEDULE, FACULTIES, TASKS, QUESTIONSFOR FACULTIES, DOCUMENTS, THE TEAM, FEED BACK, CONTACT 
